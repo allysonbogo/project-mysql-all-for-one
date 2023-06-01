@@ -1,4 +1,4 @@
-# Store Manager
+# All For One
 #### _by [Allyson Belli Bogo](https://www.linkedin.com/in/allysonbogo/)_
 
 ## :page_with_curl: Sobre
