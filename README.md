@@ -3,7 +3,7 @@
 
 ## :page_with_curl: Sobre
 
-O projeto consolida a utilização da ferramenta Docker, conceitos de SQL e a manipulação de tabelas individualmente utilizando MySQL Workbench. Como desafio, foi utilizando o banco de dados Northwind.
+O projeto consolida a utilização da ferramenta Docker, conceitos de SQL e a manipulação de tabelas individualmente utilizando MySQL Workbench. Como desafio, foi utilizado o banco de dados Northwind.
 
 Este projeto utiliza o banco de dados relacional MySQL, e para manipulá-lo construímos queries utilizando conceitos de SELECT, INSERT, UPDATE, DELETE, entre outros.
 
@@ -48,4 +48,4 @@ docker-compose up -d
 ```
 4. No MySQL Workbench, crie o banco de dados a partir dos comandos do arquivo <code>northwind.sql</code>
 
-5. Para testar as queries, copie os comandos dos arquivos <code>challenges/desafios1...27.sql</code> no MySQL Workbench
+5. Para testar as queries, copie os comandos dos arquivos <code>challenges/desafio1...27.sql</code> no MySQL Workbench
